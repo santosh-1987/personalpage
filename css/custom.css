@@ -1,0 +1,22 @@
+body{
+    background-color: gainsboro;
+}
+.container{
+    width: 80%;
+
+}
+.personal{
+    color: darkgoldenrod;
+}
+.page{
+    color:#ffffff;
+}
+.image{
+    float: left;
+}
+.latest_work {
+    float:right ;
+}
+.work_image {
+    list-style-type: none;
+}
